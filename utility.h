@@ -18,7 +18,6 @@
 using namespace std;
 
 list<int> clients_list;
-
 /**********************   macro defintion **************************/
 
 #define SERVER_IP "127.0.0.1"
@@ -33,7 +32,6 @@ list<int> clients_list;
 #define SERVER_WELCOME "Welcome you join  to the chat room! Your chat ID is: Client #%d"
 
 #define SERVER_MESSAGE "ClientID %d say >> %s"
-
 
 #define EXIT "EXIT"
 
