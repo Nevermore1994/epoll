@@ -38,7 +38,6 @@ list<int> clients_list;
 #define EXIT "EXIT"
 
 #define CAUTION "There is only one int the char room!"
-
 /**********************   some function **************************/
 /**
   * @param sockfd: socket descriptor
